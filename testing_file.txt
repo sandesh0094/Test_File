@@ -1,1 +1,2 @@
 This is a test file for GitHub
+The 2n line is added to the existing file commited in master.
